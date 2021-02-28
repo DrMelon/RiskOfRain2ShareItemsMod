@@ -13,7 +13,7 @@ There are currently two versions;
 ## How To Use
 **Note: Only the host of a multiplayer game needs to install the mod.**  
 
-Download the latest release from the releases page.
+[Download the latest release from the releases page.](https://github.com/DrMelon/RiskOfRain2ShareItemsMod/releases/tag/v1)
 Open the zip file and choose which version you would like to use.  
 Then, copy the `Assembly-CSharp.dll` file from the `Compiled` folder, and paste it into the following directory (or equivalent, depending on your Risk of Rain 2 install location.):  
 `C:/Program Files (x86)/Steam/steamapps/common/Risk of Rain 2/Risk of Rain 2_Data/Managed`  
